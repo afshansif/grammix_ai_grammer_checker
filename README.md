@@ -277,7 +277,3 @@ https://github.com/afshansif
 This project is intended for educational and development purposes.
 
 If the project is released as open source, an appropriate open-source license such as the MIT License can be added to the repository.
-
----
-
-If you find Grammix AI useful, consider giving the repository a star.
